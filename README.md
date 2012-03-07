@@ -1,0 +1,1 @@
+Solutions to the [ML Class](http://www.ml-class.org/) [excercises](http://www.ml-class.org/course/homework/list) as [iPython Notebooks](http://ipython.org/ipython-doc/dev/interactive/htmlnotebook.html).
